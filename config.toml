@@ -1,0 +1,11 @@
+baseURL = 'https://portfolio.acidobinario.me/'
+languageCode = 'en-us'
+title = 'photo portfolio'
+timeout = '340s'
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+[params.socialIcons]
+  instagram = "https://www.instagram.com/4lls3c"
+  github = "https://github.com/acidobinario/"
+  email = "mailto:photos@acidobinario.me"
