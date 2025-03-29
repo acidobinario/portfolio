@@ -1,4 +1,4 @@
-baseURL = 'https://portfolio.acidobinario.me/'
+baseURL = 'https://acidobinario.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'photo portfolio'
 timeout = '340s'
