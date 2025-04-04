@@ -4,7 +4,7 @@ date: 2024-11-16
 description: "Street photography"
 tags: ["Analog", "Photography", "Street", "Digital"]
 categories: ["Street Photography"]
-featured_image: "PRO100_AA029.jpg"
+featured_image: "_DSC8534.jpg"
 private: false
 ---
 
