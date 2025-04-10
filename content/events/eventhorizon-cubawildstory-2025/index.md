@@ -1,7 +1,7 @@
 ---
 title: "EventHorizon: Cuba Wild Story 2025"
 params:
-  featured: true
+  featured: false
 date: 2025-03-29
 description: "EventHorizon: Cuba Wild Story milsim event"
 tags: ["EventHorizon", "Events"]
